@@ -9,7 +9,7 @@
 
 - 切换到R的bin目录下，然后参考（https://dzone.com/articles/using-r-on-jupyternbspnotebook）
 
-[binOfR]()
+[binOfR](figs/Rbin.png)
 
 - 启动 jupyter lab，选择R环境
-  [runRinJupyter]()
+  [runRinJupyter](figs/Rplugin.png)
