@@ -4,6 +4,7 @@
 
 - 教学用的slides
 - 教学代码（分别支持*.R何*.ipynb两种扩展名），可支持在R Studio 或者Jupyter下运行
+- 课后作业及答案
 
 ## Jupyter安装R语言插件的教程（Windows）
 
